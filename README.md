@@ -78,6 +78,3 @@ Jordan, Nicole Vincent et al.
 circulating breast cancer cells." 
 Nature vol. 537,7618 (2016): 102-106.
 
-## Author
-Akingbade Boluwatife Samuel
-GitHub: https://github.com/Akingtom
