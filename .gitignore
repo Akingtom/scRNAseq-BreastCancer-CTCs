@@ -1,0 +1,7 @@
+*.rds 
+*.mtx 
+*.mtx_cols 
+*.mtx_rows 
+*.sdrf.txt 
+.Rhistory 
+.RData 
